@@ -3,7 +3,7 @@
 Fullstack web developer, JavaScript and React specialist.
 Interested in keep world moving using convergent technologies.
 
-## ⚡ Technologies
+## Tech stack
 
 These are some of the technologies and tools that I work with:
 
