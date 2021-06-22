@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fullstack web developer, JavaScript and React specialist.
+Web developer, JavaScript and React specialist.
 Interested in keep world moving using convergent technologies.
 
 ## Tech stack
