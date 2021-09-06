@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Web developer, JavaScript and React specialist.
+Software engineer focused on front end. My daily work is mostly done with JavaScript, CSS, React, React Native and it's all related stack environment.
 Interested in keep world moving using convergent technologies.
 
 ## Tech stack
